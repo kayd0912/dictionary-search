@@ -9,7 +9,7 @@ Find word forms or get the definition of a word.
 # For developers 
 - Download the source.py file
 - Before developing it, please do these steps:
-  + Install Python (include PyPI) and IDE (e.g : Thonny IDE) to edit the source code
+  + Install Python (include PyPI) and IDE (e.g. : Thonny IDE) to edit the source code
   + Install required libraries by opening the Command Prompt (CMD) and type this command:
     pip install beautifulsoup4 requests lxml
 - After this, you can start developing the program :D
