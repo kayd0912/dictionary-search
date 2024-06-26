@@ -1,10 +1,10 @@
 # Dictionary Search Application
-Find word forms or get the definition of a word
+Find word forms or get the definition of a word.
 ## For Users
 - Download and Start: Download the program.exe file and start using the application immediately.
 - Getting Help: Type `help` in the program to get started.
 ## For Developers
-- Download the Source Code: Download the source.py file.
+- Download the Source Code: Download the `source.py` file.
 - Setup Instructions:
 + Install Python and an IDE: Ensure Python is installed on your system, including PyPI. Install an IDE (such as Thonny IDE) for editing the source code.
 + Install Required Libraries: Open Command Prompt (CMD) and run the following command to install necessary libraries:
