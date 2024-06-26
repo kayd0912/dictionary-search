@@ -1,4 +1,5 @@
 # Dictionary Search Application
+Find word forms or get the definition of a word
 ## For Users
 - Download and Start: Download the program.exe file and start using the application immediately.
 - Getting Help: Type `help` in the program to get started.
