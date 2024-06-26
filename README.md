@@ -7,7 +7,7 @@ Find word forms or get the definition of a word.
 
 
 # For developers 
-- Download the source.py file and start modifying it
+- Download the source.py file
 - Before developing it, please do these steps:
   + Install Python (include PyPI) and IDE (e.g : Thonny IDE) to edit the source code
   + Install required libraries by opening the Command Prompt (CMD) and type this command:
