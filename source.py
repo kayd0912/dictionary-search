@@ -38,7 +38,7 @@ Commands:
   wf [word]: Get word forms from the Longman Dictionary.
   df [word]: Open the definition of the word on the Cambridge Dictionary website.
   [command] --help: Show the detailed usage of a command.
-  clear: Clear the entire screen.
+  clear, clr, cls, clrscr: Clear the entire screen.
   help: Show this help message.'''
 
 WF_HELP = '''
