@@ -6,7 +6,7 @@ Find word forms or get the definition of a word.
 ## For Developers
 - Download the Source Code: Download the `source.py` file.
 - Setup Instructions:
-  + Install Python and an IDE: Ensure Python is installed on your system, including PyPI. Install an IDE (such as Thonny IDE) for editing the source code.
+  + Install Python and an IDE: Ensure Python is installed on your system, including PyPI. Install an IDE (such as [Thonny IDE](https://thonny.org/) for editing the source code.
   + Install Required Libraries: Open Command Prompt (CMD) and run the following command to install necessary libraries:
 ```
 pip install beautifulsoup4 requests lxml
