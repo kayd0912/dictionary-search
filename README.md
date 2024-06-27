@@ -6,18 +6,18 @@ Find word forms or get the definition of a word.
 ## For Developers
 - Download the Source Code: Download the `source.py` file.
 - Setup Instructions:
- + Install Python and an IDE: Ensure Python is installed on your system, including PyPI. Install an IDE (such as Thonny IDE) for editing the source code.
- + Install Required Libraries: Open Command Prompt (CMD) and run the following command to install necessary libraries:
+  + Install Python and an IDE: Ensure Python is installed on your system, including PyPI. Install an IDE (such as Thonny IDE) for editing the source code.
+  + Install Required Libraries: Open Command Prompt (CMD) and run the following command to install necessary libraries:
 ```
 pip install beautifulsoup4 requests lxml
 ```
 After completing these steps, you can begin developing the program.
 - Compiling to an Executable File:
- + Install PyInstaller: Open Command Prompt (CMD) and run the following command:
+  + Install PyInstaller: Open Command Prompt (CMD) and run the following command:
 ```
 pip install pyinstaller
 ```
- + Compile the Source Code: Use the following command to compile the source code into an executable file:
+  + Compile the Source Code: Use the following command to compile the source code into an executable file:
 ```
 pyinstaller --onefile <path/to/source.py>
 ```
